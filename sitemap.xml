@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://calldirectorai.github.io/peaceshairbraids-site/privacy/</loc>
-    <lastmod>2026-10-01T21:09:49.805Z</lastmod>
+    <loc>https://calldirectorai.github.io/peaceshairbraids-site/contact/</loc>
+    <lastmod>2026-10-01T21:12:35.658Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://calldirectorai.github.io/peaceshairbraids-site/</loc>
-    <lastmod>2026-10-01T21:09:04.301Z</lastmod>
+    <lastmod>2026-10-01T21:12:25.541Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://calldirectorai.github.io/peaceshairbraids-site/privacy/</loc>
+    <lastmod>2026-10-01T21:09:49.805Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
