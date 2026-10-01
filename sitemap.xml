@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://peaceshairbraids.com/vip/</loc>
+    <lastmod>2026-10-01T22:00:58.310Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://peaceshairbraids.com/terms/</loc>
     <lastmod>2026-10-01T22:00:53.007Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -118,11 +123,6 @@
   <url>
     <loc>https://peaceshairbraids.com/</loc>
     <lastmod>2026-10-01T21:58:46.527Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://peaceshairbraids.com/vip/</loc>
-    <lastmod>2026-10-01T21:13:23.408Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
