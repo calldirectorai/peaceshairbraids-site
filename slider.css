@@ -1,0 +1,30 @@
+/* Review slider: scroll-snap track with buttons, dots and gentle autoplay */
+.rv{position:relative}
+.rv-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;-webkit-overflow-scrolling:touch;scrollbar-width:none;outline-offset:6px}
+.rv-track::-webkit-scrollbar{display:none}
+.rv-slide{flex:0 0 100%;scroll-snap-align:center;margin:0;box-sizing:border-box;padding:clamp(8px,2vw,24px) clamp(2px,5vw,88px);display:flex;flex-direction:column;justify-content:center;min-height:clamp(250px,25vw,330px)}
+.rv-slide blockquote{margin:0}
+.rv-slide blockquote p{font-family:var(--serif);font-style:italic;font-size:clamp(1.45rem,3vw,2.55rem);line-height:1.22;letter-spacing:-.01em;max-width:none;margin:0 0 .7em}
+.rv-slide blockquote p::before{content:"\201C"}
+.rv-slide blockquote p::after{content:"\201D"}
+.rv-who{margin:0;font-weight:600;font-size:1.05rem}
+.rv-meta{margin:2px 0 0;color:var(--mauve);font-size:.98rem}
+.rv-reply{margin:20px 0 0;padding-left:16px;border-left:3px solid var(--berry);max-width:58ch;font-size:1rem}
+.rv-ctl{display:flex;align-items:center;gap:14px;margin-top:22px}
+.rv-btn{flex:none;background:transparent;color:inherit;border:1.5px solid currentColor;border-radius:3px;padding:11px 16px;font:600 .95rem var(--sans);cursor:pointer;min-width:44px;min-height:44px}
+.rv-btn:hover{background:var(--berry);border-color:var(--berry);color:#fff}
+.rv-count{flex:none;font-variant-numeric:tabular-nums;color:var(--mauve);font-size:.95rem;min-width:3.6em;text-align:center}
+.rv-dots{flex:1;display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.rv-dot{position:relative;width:10px;height:10px;border-radius:5px;border:0;padding:0;background:rgba(42,20,38,.28);cursor:pointer;transition:width .25s,background .25s}
+.rv-dot::after{content:"";position:absolute;inset:-12px}
+.rv-dot[aria-current="true"]{width:28px;background:var(--berry)}
+/* on the dark (plum) band */
+.dark .rv-slide blockquote p{color:#fff}
+.dark .rv-who{color:#fff}
+.dark .rv-meta,.dark .rv-count{color:rgba(255,255,255,.75)}
+.dark .rv-reply{border-left-color:#F2C3F0;color:rgba(255,255,255,.88)}
+.dark .rv-btn{color:#fff}
+.dark .rv-dot{background:rgba(255,255,255,.35)}
+.dark .rv-dot[aria-current="true"]{background:#F2C3F0}
+@media (max-width:560px){.rv-ctl{flex-wrap:wrap}.rv-dots{order:3;flex-basis:100%}.rv-count{display:none}}
+@media (prefers-reduced-motion:reduce){.rv-track{scroll-behavior:auto}.rv-dot{transition:none}}
