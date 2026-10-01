@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://calldirectorai.github.io/peaceshairbraids-site/sitemap.xml
+Sitemap: https://peaceshairbraids.com/sitemap.xml
