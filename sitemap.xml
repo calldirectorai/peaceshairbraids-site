@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://peaceshairbraids.com/</loc>
+    <lastmod>2026-10-02T01:42:47.948Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://peaceshairbraids.com/reviews/</loc>
+    <lastmod>2026-10-02T01:42:40.192Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://peaceshairbraids.com/vip/</loc>
     <lastmod>2026-10-02T01:35:01.744Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -61,11 +71,6 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://peaceshairbraids.com/reviews/</loc>
-    <lastmod>2026-10-02T01:34:01.064Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://peaceshairbraids.com/privacy/</loc>
     <lastmod>2026-10-02T01:33:56.300Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -118,11 +123,6 @@
   <url>
     <loc>https://peaceshairbraids.com/about/</loc>
     <lastmod>2026-10-02T01:33:03.763Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://peaceshairbraids.com/</loc>
-    <lastmod>2026-10-02T01:32:57.898Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
