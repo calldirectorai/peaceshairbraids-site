@@ -289,3 +289,6 @@ details p{margin:12px 0 0}
 .opt input{width:auto;accent-color:var(--berry)}
 .opt:has(input:checked){border-color:var(--berry);background:var(--petal)}
 .opt:has(input:focus-visible){outline:3px solid var(--berry);outline-offset:2px}
+/* nav: keep one line with the added Styles link */
+.nav a:not(.btn){white-space:nowrap}
+@media (min-width:901px){.nav{gap:clamp(12px,1.5vw,24px)}.nav a:not(.btn){font-size:.94rem}}
