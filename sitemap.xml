@@ -1,23 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://peaceshairbraids.com/reviews/</loc>
-    <lastmod>2026-10-02T01:42:54.715Z</lastmod>
+    <loc>https://peaceshairbraids.com/</loc>
+    <lastmod>2026-10-06T00:40:30.107Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://peaceshairbraids.com/</loc>
-    <lastmod>2026-10-02T01:42:47.948Z</lastmod>
+    <loc>https://peaceshairbraids.com/faq/</loc>
+    <lastmod>2026-10-06T00:40:23.198Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://peaceshairbraids.com/contact/</loc>
+    <lastmod>2026-10-06T00:40:15.020Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://peaceshairbraids.com/reviews/</loc>
+    <lastmod>2026-10-06T00:39:50.639Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://peaceshairbraids.com/terms/</loc>
+    <lastmod>2026-10-06T00:39:49.579Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://peaceshairbraids.com/aftercare/</loc>
+    <lastmod>2026-10-06T00:39:48.803Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://peaceshairbraids.com/services/</loc>
+    <lastmod>2026-10-06T00:39:48.195Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://peaceshairbraids.com/about/</loc>
+    <lastmod>2026-10-06T00:39:47.574Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://peaceshairbraids.com/first-visit/</loc>
+    <lastmod>2026-10-06T00:39:47.134Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://peaceshairbraids.com/vip/</loc>
     <lastmod>2026-10-02T01:35:01.744Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://peaceshairbraids.com/terms/</loc>
-    <lastmod>2026-10-02T01:34:57.062Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -66,11 +96,6 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://peaceshairbraids.com/services/</loc>
-    <lastmod>2026-10-02T01:34:06.809Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://peaceshairbraids.com/privacy/</loc>
     <lastmod>2026-10-02T01:33:56.300Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,31 +123,6 @@
   <url>
     <loc>https://peaceshairbraids.com/gallery/</loc>
     <lastmod>2026-10-02T01:33:31.710Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://peaceshairbraids.com/first-visit/</loc>
-    <lastmod>2026-10-02T01:33:26.314Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://peaceshairbraids.com/faq/</loc>
-    <lastmod>2026-10-02T01:33:20.283Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://peaceshairbraids.com/contact/</loc>
-    <lastmod>2026-10-02T01:33:15.102Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://peaceshairbraids.com/aftercare/</loc>
-    <lastmod>2026-10-02T01:33:08.476Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://peaceshairbraids.com/about/</loc>
-    <lastmod>2026-10-02T01:33:03.763Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
